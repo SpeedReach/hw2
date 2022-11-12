@@ -1,0 +1,40 @@
+Count Sort took 0 ms to sort array size of 32768 in average
+Count Sort took 0 ms to sort array size of 65536 in average
+Count Sort took 0 ms to sort array size of 131072 in average
+Count Sort took 0 ms to sort array size of 262144 in average
+Count Sort took 0 ms to sort array size of 524288 in average
+Count Sort took 0 ms to sort array size of 1048576 in average
+Count Sort took 0 ms to sort array size of 2097152 in average
+Count Sort took 10 ms to sort array size of 4194304 in average
+Count Sort took 21 ms to sort array size of 8388608 in average
+Count Sort took 47 ms to sort array size of 16777216 in average
+Count Sort took 108 ms to sort array size of 33554432 in average
+Count Sort took 235 ms to sort array size of 67108864 in average
+Count Sort took 508 ms to sort array size of 134217728 in average
+Count Sort took 1058 ms to sort array size of 268435456 in average
+not enough memory on sort: Count Sort with n=536870912
+not enough memory on sort: Count Sort with n=1073741824
+Merge Sort took 0 ms to sort array size of 32768 in average
+Merge Sort took 10 ms to sort array size of 65536 in average
+Merge Sort took 20 ms to sort array size of 131072 in average
+Merge Sort took 50 ms to sort array size of 262144 in average
+Merge Sort took 104 ms to sort array size of 524288 in average
+Merge Sort took 220 ms to sort array size of 1048576 in average
+Merge Sort took 457 ms to sort array size of 2097152 in average
+Merge Sort took 1055 ms to sort array size of 4194304 in average
+Merge Sort took 1967 ms to sort array size of 8388608 in average
+Merge Sort took 4287 ms to sort array size of 16777216 in average
+Merge Sort took 8503 ms to sort array size of 33554432 in average
+Merge Sort took 16435 ms to sort array size of 67108864 in average
+Merge Sort took 33689 ms to sort array size of 134217728 in average
+not enough memory on sort: Merge Sort with n=268435456
+not enough memory on sort: Merge Sort with n=536870912
+not enough memory on sort: Merge Sort with n=1073741824
+Lomuto Quick Sort took 0 ms to sort array size of 32768 in average
+Lomuto Quick Sort took 20 ms to sort array size of 65536 in average
+Lomuto Quick Sort took 64 ms to sort array size of 131072 in average
+Lomuto Quick Sort took 243 ms to sort array size of 262144 in average
+Lomuto Quick Sort took 928 ms to sort array size of 524288 in average
+Lomuto Quick Sort took 3543 ms to sort array size of 1048576 in average
+Lomuto Quick Sort took 14374 ms to sort array size of 2097152 in average
+Lomuto Quick Sort took 66463 ms to sort array size of 4194304 in average
