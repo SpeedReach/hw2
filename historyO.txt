@@ -1,0 +1,82 @@
+Count Sort took 0 ms to sort array size of 32768 in average
+Count Sort took 0 ms to sort array size of 65536 in average
+Count Sort took 0 ms to sort array size of 131072 in average
+Count Sort took 0 ms to sort array size of 262144 in average
+Count Sort took 0 ms to sort array size of 524288 in average
+Count Sort took 0 ms to sort array size of 1048576 in average
+Count Sort took 0 ms to sort array size of 2097152 in average
+Count Sort took 10 ms to sort array size of 4194304 in average
+Count Sort took 21 ms to sort array size of 8388608 in average
+Count Sort took 47 ms to sort array size of 16777216 in average
+Count Sort took 108 ms to sort array size of 33554432 in average
+Count Sort took 235 ms to sort array size of 67108864 in average
+Count Sort took 508 ms to sort array size of 134217728 in average
+Count Sort took 1058 ms to sort array size of 268435456 in average
+not enough memory on sort: Count Sort with n=536870912
+not enough memory on sort: Count Sort with n=1073741824
+Merge Sort took 0 ms to sort array size of 32768 in average
+Merge Sort took 10 ms to sort array size of 65536 in average
+Merge Sort took 20 ms to sort array size of 131072 in average
+Merge Sort took 50 ms to sort array size of 262144 in average
+Merge Sort took 104 ms to sort array size of 524288 in average
+Merge Sort took 220 ms to sort array size of 1048576 in average
+Merge Sort took 457 ms to sort array size of 2097152 in average
+Merge Sort took 1055 ms to sort array size of 4194304 in average
+Merge Sort took 1967 ms to sort array size of 8388608 in average
+Merge Sort took 4287 ms to sort array size of 16777216 in average
+Merge Sort took 8503 ms to sort array size of 33554432 in average
+Merge Sort took 16435 ms to sort array size of 67108864 in average
+Merge Sort took 33689 ms to sort array size of 134217728 in average
+not enough memory on sort: Merge Sort with n=268435456
+not enough memory on sort: Merge Sort with n=536870912
+not enough memory on sort: Merge Sort with n=1073741824
+Lomuto Quick Sort took 5 ms to sort array size of 32768 in average
+Lomuto Quick Sort took 18 ms to sort array size of 65536 in average
+Lomuto Quick Sort took 65 ms to sort array size of 131072 in average
+Lomuto Quick Sort took 232 ms to sort array size of 262144 in average
+Lomuto Quick Sort took 888 ms to sort array size of 524288 in average
+Lomuto Quick Sort took 3439 ms to sort array size of 1048576 in average
+Lomuto Quick Sort took 13599 ms to sort array size of 2097152 in average
+Lomuto Quick Sort took 54886 ms to sort array size of 4194304 in average
+Lomuto Quick Sort took 214580 ms to sort array size of 8388608 in average
+------------taking too long
+
+Three Way Quick Sort took 0 ms to sort array size of 32768 in average
+Three Way Quick Sort took 0 ms to sort array size of 65536 in average
+Three Way Quick Sort took 10 ms to sort array size of 131072 in average
+Three Way Quick Sort took 20 ms to sort array size of 262144 in average
+Three Way Quick Sort took 40 ms to sort array size of 524288 in average
+Three Way Quick Sort took 92 ms to sort array size of 1048576 in average
+Three Way Quick Sort took 193 ms to sort array size of 2097152 in average
+Three Way Quick Sort took 370 ms to sort array size of 4194304 in average
+Three Way Quick Sort took 812 ms to sort array size of 8388608 in average
+Three Way Quick Sort took 1559 ms to sort array size of 16777216 in average
+Three Way Quick Sort took 3237 ms to sort array size of 33554432 in average
+Three Way Quick Sort took 6395 ms to sort array size of 67108864 in average
+Three Way Quick Sort took 12587 ms to sort array size of 134217728 in average
+Three Way Quick Sort took 23792 ms to sort array size of 268435456 in average
+not enough memory on sort: Three Way Quick Sort with n=536870912
+not enough memory on sort: Three Way Quick Sort with n=1073741824
+Hoare Quick Sort took 0 ms to sort array size of 32768 in average
+Hoare Quick Sort took 0 ms to sort array size of 65536 in average
+Hoare Quick Sort took 10 ms to sort array size of 131072 in average
+Hoare Quick Sort took 20 ms to sort array size of 262144 in average
+Hoare Quick Sort took 50 ms to sort array size of 524288 in average
+Hoare Quick Sort took 110 ms to sort array size of 1048576 in average
+Hoare Quick Sort took 232 ms to sort array size of 2097152 in average
+Hoare Quick Sort took 475 ms to sort array size of 4194304 in average
+Hoare Quick Sort took 983 ms to sort array size of 8388608 in average
+Hoare Quick Sort took 2036 ms to sort array size of 16777216 in average
+Hoare Quick Sort took 4189 ms to sort array size of 33554432 in average
+Hoare Quick Sort took 9160 ms to sort array size of 67108864 in average
+Hoare Quick Sort took 17748 ms to sort array size of 134217728 in average
+Hoare Quick Sort took 36950 ms to sort array size of 268435456 in average
+not enough memory on sort: Hoare Quick Sort with n=536870912
+not enough memory on sort: Hoare Quick Sort with n=1073741824
+Insertion Sort took 504 ms to sort array size of 32768 in average
+Insertion Sort took 2029 ms to sort array size of 65536 in average
+Insertion Sort took 8175 ms to sort array size of 131072 in average
+Insertion Sort took 33256 ms to sort array size of 262144 in average
+Insertion Sort took 134314 ms to sort array size of 524288 in average
+Insertion Sort took 550762 ms to sort array size of 1048576 in average
+------taking too long

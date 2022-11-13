@@ -14,6 +14,8 @@ public:
     virtual void sort(int* arr,int size) = 0;
     virtual string name() = 0;
     void test(){
+        int arr1[20] = {};
+        sort(arr1,20);
         int arr[20];
         for(int j=0;j<20;j++){
             arr[j] = (rand()%1000+1);
