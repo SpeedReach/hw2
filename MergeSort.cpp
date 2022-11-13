@@ -7,7 +7,7 @@
 //1,5,7,9  2,3,5,8};
 void merge(int * arr,int l,int m,int r){
     int size = r-l;
-    int *newArr = new int[size];
+    int* newArr = new int[size];
     int index = 0;
     int lp = l,rp = m;
     while (index < size){

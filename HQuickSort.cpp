@@ -20,6 +20,7 @@ void hPartition(int *arr,int low,int high){
         swap(arr[i],arr[j]);
     }
 
+
     if(j-low > 0)
         hPartition(arr,low,j);
     if(high-j-1 > 0)

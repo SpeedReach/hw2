@@ -1,9 +1,16 @@
-Lomuto Quick Sort took 5 ms to sort array size of 32768 in average
-Lomuto Quick Sort took 18 ms to sort array size of 65536 in average
-Lomuto Quick Sort took 65 ms to sort array size of 131072 in average
-Lomuto Quick Sort took 232 ms to sort array size of 262144 in average
-Lomuto Quick Sort took 888 ms to sort array size of 524288 in average
-Lomuto Quick Sort took 3439 ms to sort array size of 1048576 in average
-Lomuto Quick Sort took 13599 ms to sort array size of 2097152 in average
-Lomuto Quick Sort took 54886 ms to sort array size of 4194304 in average
-Lomuto Quick Sort took 214580 ms to sort array size of 8388608 in average
+Three Way Quick Sort took 0 ms to sort array size of 32768 in average
+Three Way Quick Sort took 0 ms to sort array size of 65536 in average
+Three Way Quick Sort took 10 ms to sort array size of 131072 in average
+Three Way Quick Sort took 20 ms to sort array size of 262144 in average
+Three Way Quick Sort took 40 ms to sort array size of 524288 in average
+Three Way Quick Sort took 90 ms to sort array size of 1048576 in average
+Three Way Quick Sort took 182 ms to sort array size of 2097152 in average
+Three Way Quick Sort took 370 ms to sort array size of 4194304 in average
+Three Way Quick Sort took 751 ms to sort array size of 8388608 in average
+Three Way Quick Sort took 1496 ms to sort array size of 16777216 in average
+Three Way Quick Sort took 2980 ms to sort array size of 33554432 in average
+Three Way Quick Sort took 5981 ms to sort array size of 67108864 in average
+Three Way Quick Sort took 12005 ms to sort array size of 134217728 in average
+Three Way Quick Sort took 23837 ms to sort array size of 268435456 in average
+not enough memory on sort: Three Way Quick Sort with n=536870912
+not enough memory on sort: Three Way Quick Sort with n=1073741824

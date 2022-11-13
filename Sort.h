@@ -14,8 +14,12 @@ public:
     virtual void sort(int* arr,int size) = 0;
     virtual string name() = 0;
     void test(){
-        int arr1[20] = {};
-        sort(arr1,20);
+        int arr1[13] = {1,0,0,1,2,0,2,0,2,1,1,2,2};
+        sort(arr1,13);
+        for(int i=0;i<13;i++){
+            cout << arr1[i]<< " ";
+        }
+        cout<<endl;
         int arr[20];
         for(int j=0;j<20;j++){
             arr[j] = (rand()%1000+1);

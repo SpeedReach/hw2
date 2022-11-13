@@ -48,17 +48,16 @@ int main() {
     o.open("./output.txt");
 
     Sort* sorts[] = {
-           // new CountSort(),
-           // new MergeSort(),
-           // new LQuickSort(),
+           new CountSort(),
+           new MergeSort(),
+           new LQuickSort(),
             new ThreeWaySort(),
             new HQuickSort(),
             new InsertSort()
     };
 
-    //for (const auto &item : sorts){
-      //  process(*item);
-    //}
-    LQuickSort q = LQuickSort();
-    process(q);
+    for (const auto &item : sorts){
+        process(*item);
+    }
+
 }
